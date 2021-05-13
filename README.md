@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome, i am Heron!.
 
-<!--
-**szHeron/szHeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and NodeJs in my spare time.
 
-Here are some ideas to get you started:
+# Social Midias
+<a href="https://www.instagram.com/szheron/" targe="_blank">
+<img align="center" alt="FigmanSkill" height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620918123~hmac=ab58e1d099103b734dfe94cda1b95b5d"</img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+<img align="center" alt="FigmanSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
+<img align="center" alt="PythonSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+<img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
+<img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></img>
+<img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></img>
+<img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
