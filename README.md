@@ -1,4 +1,4 @@
-# Welcome, i am Heron!.
+# Welcome, i am Heron!
 
 I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and NodeJs in my spare time.
 
