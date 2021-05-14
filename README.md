@@ -13,7 +13,7 @@ I study Software Engineering at the Federal University of Ceará and study React
 <img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></img>
 <img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></img>
 <img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
-
+---
 ![Heron GitHub stats](https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron)](https://github.com/szHeron/github-readme-stats)
