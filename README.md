@@ -4,7 +4,7 @@ I study Software Engineering at the Federal University of Ceará and study React
 
 # Social Midias
 <a href="https://www.instagram.com/szheron/" targe="_blank">
-<img align="center" alt="FigmanSkill" height="40" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620918123~hmac=ab58e1d099103b734dfe94cda1b95b5d"</img>
+<img align="center" alt="FigmanSkill" height="40" width="40" src="https://image.flaticon.com/icons/png/512/174/174855.png"</img>
 
 # Skills
 <img align="center" alt="FigmanSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
