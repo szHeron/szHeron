@@ -20,4 +20,4 @@ I study Software Engineering at the Federal University of Ceará and study React
 # Stats
 ![Heron GitHub stats](https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron)](https://github.com/szHeron/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron&layout=compact)](https://github.com/szHeron/github-readme-stats)
