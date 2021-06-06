@@ -8,6 +8,9 @@ I study Software Engineering at the Federal University of Ceará and study React
 
 <a href="https://www.instagram.com/szheron/" targe="_blank">
 <img align="center" alt="Instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/174/174855.png"</img>
+ 
+<a href="contatoheron.dev@gmail.com" targe="_blank">
+<img align="center" alt="email" height="40" width="40" src="https://image.flaticon.com/icons/png/512/281/281769.png"</img>
 
 # Skills
 <img align="center" alt="FigmanSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
