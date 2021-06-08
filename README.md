@@ -19,6 +19,8 @@ I study Software Engineering at the Federal University of Ceará and study React
 <img alt="MongoDBSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
 
 # Stats
-![Heron GitHub stats](https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron&layout=compact)](https://github.com/szHeron/github-readme-stats)
+<div>
+ <a href="https://github.com/szHeron">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron&layout=compact&theme=radical"/>
+</div>
