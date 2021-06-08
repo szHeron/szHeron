@@ -3,7 +3,6 @@
 I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and NodeJs in my spare time.
 
 ## Social Midias
-
 <a href="https://www.linkedin.com/in/heron-rodrigues-8a0b221b2">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/szheron/">
@@ -12,7 +11,6 @@ I study Software Engineering at the Federal University of Ceará and study React
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Skills
-
 <img alt="FigmanSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><img alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img alt="HTMLSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
 <img alt="CSSSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
@@ -21,7 +19,6 @@ I study Software Engineering at the Federal University of Ceará and study React
 <img alt="MongoDBSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
 
 ## Stats
-
 <div>
  <a href="https://github.com/szHeron">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
