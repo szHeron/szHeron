@@ -3,10 +3,10 @@
 I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and NodeJs in my spare time.
 
 # Social Midias
-<a href="https://www.linkedin.com/in/heron-rodrigues-8a0b221b2" targe="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img>
-<a href="https://www.instagram.com/szheron/" targe="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</img>
+<a href="https://www.linkedin.com/in/heron-rodrigues-8a0b221b2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/szheron/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto: contatoheron.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
