@@ -12,6 +12,7 @@ I study Software Engineering at the Federal University of Ceará and study React
 ## Skills
 <div>
   <img align="center" alt="FigmanSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+  <img align="center" alt="TsSkill" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="JsSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="HTMLSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" alt="CSSSkill" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
