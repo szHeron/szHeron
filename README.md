@@ -1,5 +1,5 @@
 # Welcome, i am Heron!
-I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and NodeJs in my spare time.
+I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and ExpressJs in my spare time.
 
 ## Social Midias
 <a href="https://www.linkedin.com/in/heron-rodrigues-8a0b221b2">
