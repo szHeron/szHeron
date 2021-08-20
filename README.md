@@ -2,7 +2,7 @@
 I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and ExpressJs in my spare time.
 
 ## Social Midias
-<a href="https://www.linkedin.com/in/heron-rodrigues-8a0b221b2">
+<a href="https://www.linkedin.com/in/heronrodrigues/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/szheron/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
