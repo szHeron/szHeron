@@ -23,7 +23,7 @@ http://portfolio-szheron.vercel.app/
   <img align="center" alt="NodeJsSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" alt="ExpressJsSkill" height="64" width="64"src="https://images.tute.io/tute/topic/express-js.png"/>
   <img align="center" alt="MongoDBSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
-
+  <img align="center" alt="PythonSkill" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 ## Stats
