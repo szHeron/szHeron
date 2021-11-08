@@ -17,6 +17,7 @@ http://portfolio-szheron.vercel.app/
   <img align="center" alt="JsSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="TsSkill" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="ReactSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="NextJsSkill" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img align="center" alt="NodeJsSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" alt="ExpressJsSkill" height="64" width="64"src="https://images.tute.io/tute/topic/express-js.png"/>
   <img align="center" alt="HTMLSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
