@@ -1,5 +1,7 @@
 # Welcome, i am Heron!
-I study Software Engineering at the Federal University of Ceará and study ReactJs, React-Native and ExpressJs in my spare time.
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Flag_of_the_USA.png" target="_blank" height="32" width="48"> I study Software Engineering at the Federal University of Ceará and study React, React-Native and Express in my spare time.
+
+<img src="https://cdn.pixabay.com/photo/2020/02/26/02/30/brazil-4880477_1280.png" target="_blank" height="32" width="48"> Eu estudo engenharia de software na Universidade Federal do Ceará e algumas tecnologias como React, React-Native e Express em meu tempo livre.
 
 # Portfólio
 http://portfolio-szheron.vercel.app/
