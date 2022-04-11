@@ -1,7 +1,12 @@
-# Welcome, i am Heron :wave:.
-<img src="https://cdn.pixabay.com/photo/2020/02/26/02/30/brazil-4880477_1280.png" target="_blank" height="32" width="48"> Olá, tudo bem? Meu nome é Heron e sou estudante do curso de engenharia de software na Universidade Federal do Ceará, um dos motivos para ter ingressado no curso foi o interesse pela área de programação, principalmente em desenvolvimento jogos, mas com isso ganhei interesses em areas como Web, Mobile e I.A.
+# Welcome, i'm Heron :wave:.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Flag_of_the_USA.png" target="_blank" height="32" width="48"> Hello how are you? My name is Heron and I am a student in the software engineering course at the Federal University of Ceará, one of the reasons for joining the course was the interest in programming, mainly in game development, but with that I gained interest in areas such as Web, Mobile and A.I.
+Hello how are you? My name is Heron and I am a student in the software engineering course at the Federal University of Ceará.
+
+:comet: **Technologies i'm interested in**
+- :iphone: Mobile development
+- :desktop_computer: Web development
+- :video_game: Games development
+- :robot: A.I
 
 ## Portfólio
 <a href="http://portfolio-szheron.vercel.app/">
