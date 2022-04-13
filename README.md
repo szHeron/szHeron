@@ -1,6 +1,6 @@
 # Welcome, i'm Heron :wave:.
 
-Hello how are you? My name is Heron and I am a student in the software engineering course at the Federal University of Ceará.
+I am a student in the software engineering course at the Federal University of Ceará.
 
 :comet: **Technologies i'm interested in**
 - :iphone: Mobile development
