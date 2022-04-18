@@ -10,7 +10,7 @@ I am a student in the software engineering course at the Federal University of C
 
 ## Portfólio
 <a href="http://portfolio-szheron.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=#FF7139" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" target="_blank">
 </a>
 
 ## Social Midias
