@@ -28,14 +28,14 @@ I am a student in the software engineering course at the Federal University of C
 <div>
   <img align="center" alt="JsSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="TsSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="PythonSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="ReactSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="NextJsSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="NodeJsSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="ExpressJsSkill" height="48" width="48" src="https://images.tute.io/tute/topic/express-js.png"/>
+  <img align="center" alt="NextJsSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
+  <img align="center" alt="NodeJsSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="ExpressJsSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img align="center" alt="HTMLSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" alt="CSSSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img align="center" alt="SCSSSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="center" alt="PythonSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="FigmanSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="FirebaseSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="MongoDBSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
