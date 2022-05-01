@@ -36,6 +36,7 @@ I am a student in the software engineering course at the Federal University of C
   <img align="center" alt="HTMLSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" alt="CSSSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img align="center" alt="SCSSSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img align="center" alt="MUISkill" height="48" width="48" src="https://mui.com/static/logo.png"/>
   <img align="center" alt="FigmanSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="FirebaseSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="MongoDBSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
