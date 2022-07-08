@@ -5,8 +5,7 @@ I am a student in the software engineering course at the Federal University of C
 :comet: **Technologies i'm interested in**
 - :iphone: Mobile development
 - :desktop_computer: Web development
-- :video_game: Learning about games development
-- :robot: Learning about A.I
+- :video_game: Interest in games development
 
 ## Portfólio
 <a href="http://portfolio-szheron.vercel.app/">
