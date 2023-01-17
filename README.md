@@ -41,9 +41,3 @@ I am a student in the software engineering course at the Federal University of C
   <img align="center" alt="MongoDBSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
   <img align="center" alt="PostgreeDBSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-
-## Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szHeron&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szHeron&layout=compact&langs_count=16&theme=radical"/>
-</div>
