@@ -2,10 +2,10 @@
 
 I am a student in the software engineering course at the Federal University of Ceará.
 
-:comet: **Technologies i'm interested in**
+:comet: **Technologies I have skills**
 - :iphone: Mobile development
 - :desktop_computer: Web development
-- :video_game: Interest in games development
+- :cloud: Back-end development
 
 ## Portfólio
 <a href="http://portfolio-szheron.vercel.app/">
