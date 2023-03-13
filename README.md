@@ -2,7 +2,7 @@
 
 I am a student in the software engineering course at the Federal University of Ceará.
 
-:comet: **Technologies I have skills**
+:comet: **I have skills in**
 - :iphone: Mobile development
 - :desktop_computer: Web development
 - :cloud: Back-end development
