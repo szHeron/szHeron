@@ -40,6 +40,7 @@ I am a student in the software engineering course at the Federal University of C
   <img align="center" alt="FirebaseSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="MongoDBSkill" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
   <img align="center" alt="PostgreeDBSkill" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="github" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ## Stats
