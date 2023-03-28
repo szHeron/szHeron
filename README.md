@@ -8,8 +8,8 @@ I am a student in the software engineering course at the Federal University of C
 - :cloud: Back-end development
 
 ## Portfólio
-<a href="http://portfolio-szheron.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" target="_blank">
+<a href="http://portfolio-szheron.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge">
 </a>
 
 ## Social Midias
